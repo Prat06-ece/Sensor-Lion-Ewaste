@@ -10,7 +10,7 @@ Developed as an **educational and environmental innovation**, this project integ
 ## 🎯 Features
 - Object detection using **ultrasonic sensor** (range: 2 meters)
 - Automatic roaring sound when object detected
-- Tail movement using motor mechanism
+- Jaw and Tail movement using motor mechanism
 - Body made from **recycled e-waste components**
 
 ---
@@ -20,6 +20,7 @@ Developed as an **educational and environmental innovation**, this project integ
 |----------|----------|---------|
 | Arduino Uno | 1 | Main controller |
 | Ultrasonic Sensor (HC-SR04) | 1 | Object detection |
+| Servo Motor | 1 | Jaw movement|
 | Servo Motor | 1 | Tail wagging |
 | Speaker Module / Buzzer | 1 | Roaring sound |
 | Jumper Wires | As required | Connections |
