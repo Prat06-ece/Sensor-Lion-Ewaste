@@ -135,7 +135,7 @@ This project is part of submission to:
 ## 📩 Contact
 For any queries or collaboration:
 - Email: [pratibha.gahlot2009@gmail.com]
-- GitHub:[https://github.com/PratibhaGahlot-Innovation/Chandrayaan3-Rover-Model]
+- GitHub:[https://github.com/Prat06-ece/Sensor-Lion-Ewaste]
 ---
 
 > 🔖 *"Bridging innovation and sustainability through e-waste robotics."*
